@@ -5,9 +5,9 @@ Maintainer: StikeB <coolmafia111@gmail.com>
 Depends:
 Filename: /Kreps.deb
 Size: 34418
-MD5sum: 5360A14B0CB8FCFBA8026D64192C0886
-SHA1: 44B696C28BDB52CC24700276A22B297229919D8A
-SHA256: 26BD4CC69C961A918E1A6E124DA4422B192A22C681DB1867A46D79578C206562
+MD5sum: 5360a14b0cb8fcfba8026d64192c0886
+SHA1: 44b696c28bdb52cc24700276a22b297229919d8a
+SHA256: 26bd4cc69c961a918e1a6e124da4422b192a22c681db1867a46d79578c206562
 Section: LockGlyph themes
 Description: This is a CS:GO CT LockGlyph Theme
 Author: stikeB <coolmafia111@gmail.com>
@@ -20,10 +20,26 @@ Maintainer: StikeB <coolmafia111@gmail.com>
 Depends:
 Filename: /Kebabs.deb
 Size: 18708
-MD5sum: E705B7F3A75D5C7E6DF964DB8D17D90E
-SHA1: D8A80D3C835D7F3EA1650289BA9DE1BEC9F78090
-SHA256: A132F61F070A6EB6B90DDEDCDB482D807D74550E0C29760A854C38F6DACAB5DC
+MD5sum: e705b7f3a75d5c7e6df964db8d17d90e
+SHA1: d8a80d3c835d7f3ea1650289ba9de1bec9f78090
+SHA256: a132f61f070a6eb6b90ddedcdb482d807d74550e0c29760a854c38f6dacab5dc
 Section: LockGlyph themes
 Description: This is a CS:GO T LockGlyph Theme
 Author: stikeB <coolmafia111@gmail.com>
 Name: CS:GO T LockGlyph Theme
+
+
+Package: com.stikeB.pickpocketalarm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: StikeB <coolmafia111@gmail.com>
+Depends:
+Filename: /dsa.deb
+Size: 1716146
+MD5sum: 5f515c51a7f884d590307181658f1e72
+SHA1: e097ecbb104fe95beb32ea53bd6470b3e1a25b1f
+SHA256: 47e8b0651a165afc75968fea5b55d07d63aa9e83cd60cf68581ede182a3e69d5
+Section: PickPocket Alarms
+Description: This is a funny Shrek PickPocket alarm
+Author: stikeB <coolmafia111@gmail.com>
+Name: What are u doin in my swamp PickPocket Alarm
