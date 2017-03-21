@@ -1,0 +1,14 @@
+Package: com.stikeB.LockGlyphcst
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: StikeB <coolmafia111@gmail.com>
+Depends:
+Filename: /Kebabs.deb
+Size: 18708
+MD5sum: E705B7F3A75D5C7E6DF964DB8D17D90E
+SHA1: D8A80D3C835D7F3EA1650289BA9DE1BEC9F78090
+SHA256: A132F61F070A6EB6B90DDEDCDB482D807D74550E0C29760A854C38F6DACAB5DC
+Section: LockGlyph themes
+Description: This is a CS:GO T LockGlyph Theme
+Author: stikeB <coolmafia111@gmail.com>
+Name: CS:GO T LockGlyph Theme
