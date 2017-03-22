@@ -29,15 +29,15 @@ Author: stikeB <coolmafia111@gmail.com>
 Name: CS:GO T LockGlyph Theme
 
 Package: com.favna.pyrrhaglyph
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: StikeB <coolmafia111@gmail.com>
 Depends:
 Filename: /Skrr.deb
 Size: (67160
-MD5sum: 90535a0eed50adcdc840e686be5aa577
-SHA1: fd093ccadd938f6de851ed14fed4efa4677d55b2
-SHA256: 72d04b0577a0ec0491c44a2fc8ae5d1b1f375e20fddaf8357323fb671dac39a7
+MD5sum: 9db2eb9dad24b621f65ed6dfc76ded94
+SHA1: 163bb38fd04608dd651363fd4110982056e47bf4
+SHA256: 163a4bbf65c520f8302d7ad83f519f5e3da3d0b8bbc6e6d9c4ec1c3a3f860f35
 Section: LockGlyph themes
 Description: A LockGlyph of the chibi face of Pyrrha Nikos from the RWBY series
 Author: Favna
