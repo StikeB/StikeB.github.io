@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>default</key>
+		<string>http://i.imgur.com/SU16kNK.png</string>
+		<key>label</key>
+		<string>URL</string>
+		<key>name</key>
+		<string>picturelink</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>100</string>
+		<key>label</key>
+		<string>Height</string>
+		<key>name</key>
+		<string>height</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>100</string>
+		<key>label</key>
+		<string>Width</string>
+		<key>name</key>
+		<string>width</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+	<dict>
+		<key>label</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>label</key>
+		<string>Made by StikeB</string>
+	</dict>
+	<dict>
+		<key>label</key>
+		<string>AMMA 4 ever m8</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+	<dict>
+		<key>label</key>
+		<string>coolmafia111@gmail.com</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+</array>
+</plist>

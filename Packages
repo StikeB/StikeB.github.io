@@ -13,6 +13,21 @@ Description: This is a CS:GO CT LockGlyph Theme
 Author: stikeB <coolmafia111@gmail.com>
 Name: CS:GO CT LockGlyph Theme
 
+Package: com.stikeB.LhStikeB
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: StikeB <coolmafia111@gmail.com>
+Depends:
+Filename: /LhstikeB.deb
+Size: 34418
+MD5sum: 3e5c8cc62b93cc9094a3a523769de9ef
+SHA1: ebadf3c9d885895f07a378810fa4bba622ce21cb
+SHA256: 5e39592ea5c7ccfaf877fdb671cd5f63d493be4806491107ea5f7eaf72f6d74a
+Section: LockHTML themes
+Description: StikeB logo for lockhtml
+Author: stikeB <coolmafia111@gmail.com>
+Name: StikeB LockHTML theme
+
 Package: com.stikeB.LockGlyphcst
 Version: 1.0
 Architecture: iphoneos-arm
